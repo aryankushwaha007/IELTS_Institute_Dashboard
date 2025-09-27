@@ -155,12 +155,6 @@ This project is created for educational purposes. Feel free to use and modify as
 4. Push to the branch
 5. Open a Pull Request
 
-## 📞 Support
 
-For questions or support, please contact:
-- Email: info@ieltsinstitute.com
-- Phone: +1 (555) 123-4567
-
----
 
 **Built with ❤️ using React and Tailwind CSS**
