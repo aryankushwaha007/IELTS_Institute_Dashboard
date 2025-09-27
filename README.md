@@ -1,4 +1,4 @@
-# IELTS Institute Homepage
+# IELTS Institute Dashboard
 
 A modern, professional, and responsive homepage for a fictional IELTS Institute built with React and Tailwind CSS.
 
@@ -31,7 +31,7 @@ A modern, professional, and responsive homepage for a fictional IELTS Institute 
 1. **Clone or download the project**
    ```bash
    # If you have the project files, navigate to the project directory
-   cd ielts-institute-homepage
+   cd ielts-institute-dashboard
    ```
 
 2. **Install dependencies**
